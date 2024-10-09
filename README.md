@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🤠 Arthur Facchinetti
 
-<!--
-**ArtFacchinetti/ArtFacchinetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web Iniciante/Entusiasta de Computação`**
 
-Here are some ideas to get you started:
+Sou o Arthur, tenho 17 anos e começei na programação com 11 anos de idade apredendo sozinho, mas desde o ensino médio tenho formalizado meu aprendizado com [Curso Técnico](), [Bootcamps]() e diversos [Projetos]() pessoais. Tenho conhecimento no desenvolvimento **Front-End**, mas estou estudando todos os dias para me tornar um desenvolvedor _fullstack_ e, seguindo meus obejetivos, um _engenheiro de softwere_.  Sonho em um dia poder ter liberdade de explorar o mundo e poder trasformar minhas ideais em realidade com a programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🗺️ Plano perfeito**
+- [x] <span style="color:blue;">some *blue* text</span >
+- [x] Curso Técnico SENAI
+- [ ] Fazer faculdade
+- [ ] Virar o novo Bill Gates
+
+---
+
