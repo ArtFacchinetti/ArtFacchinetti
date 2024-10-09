@@ -1,4 +1,4 @@
-# 🤠 Arthur Facchinetti
+# <div><img src="svg.svg" width="400" height="60" alt="css-in-readme"></div>
 
 **`Desenvolvedor Web Iniciante/Entusiasta de Computação`**
 
@@ -12,4 +12,3 @@ Sou o Arthur, tenho 17 anos e começei na programação com 11 anos de idade apr
 - [ ] Virar o novo Bill Gates
 
 ---
-
