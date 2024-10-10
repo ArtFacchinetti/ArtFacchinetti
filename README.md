@@ -10,3 +10,11 @@ Sou o Arthur, tenho 17 anos e começei na programação com 11 anos de idade apr
 - [ ] Fazer faculdade
 - [ ] Virar o novo Bill Gates
 ---
+# Projetos
+**`💻 O que eu sou capaz de fazer`**
+
+
+
+---
+# Educação
+**`🤓 Cursos, Bootcamps e Certificados`**
