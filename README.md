@@ -1,10 +1,9 @@
-# <img src="svg.svg" width="400" height="100" alt="css-in-readme">
-# 👋 Olá, eu sou o Arthur Facchinetti!
+# <img src="svg.svg" width="800" height="200" alt="Arthur Facchinetti">
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (Fatec Jacareí)  
-💻 Desenvolvedor em formação, apaixonado por resolver problemas com código  
-🌍 Buscando oportunidades para crescer em projetos reais e colaborar com times diversos  
-📚 Aprendizado contínuo em tecnologias web, APIs, bancos de dados e boas práticas de desenvolvimento
+💻 Desenvolvedor em formação, adoro resolver problemas com código  
+🌍 Buscando oportunidades para crescer em projetos reais e colaborar com diversos times   
+📚 Aprendizado contínuo em tecnologias web, APIs, bancos de dados e boas práticas
 
 ---
 
@@ -13,7 +12,7 @@
 - **Linguagens:** JavaScript • SQL
 - **Back-end:** Node.js • Express.js • PostgreSQL
 - **Front-end:** HTML5 • CSS3 • React (básico)
-- **Outros:** Git • GitHub • Figma • Trello  • Pacote Office
+- **Outros:** Git • GitHub • Figma • Trello
 - **Metodologias:** Scrum (ABP em projetos acadêmicos)
 
 ---
