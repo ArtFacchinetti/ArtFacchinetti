@@ -4,7 +4,7 @@
             <style>
             h1 {
                 color: green;
-                animation: mymove 2s infinite;
+                animation: mymove 2s ease infinite;
             }
 
             @keyframes mymove {
