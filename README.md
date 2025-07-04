@@ -1,38 +1,47 @@
-# <img src="svg.svg" width="800" height="200" alt="Arthur Facchinetti">
+<p align="left">
+    <img src="svg.svg" width="800" height="200" alt="SVG Arthur Facchinetti" />
+</p>
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma (Fatec Jacareí)  
-💻 Desenvolvedor em formação, adoro resolver problemas com código  
-🌍 Buscando oportunidades para crescer em projetos reais e colaborar com diversos times   
-📚 Aprendizado contínuo em tecnologias web, APIs, bancos de dados e boas práticas
+<img src="./hero.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
----
+<p align="left"> 
+  Desenvolvedor <strong>WEB 🌐</strong> <br> Estudante de <strong>Desenvolvimento de Software Multiplataforma 💻</strong> na <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec Jacareí</a>🧑‍🎓! <br> No momento aprendendo FrontEnd.
+ </p> 
+ 
+<p>
+❤️ Adoro criar com minhas prórpias mãos!
+</p>
+  
+<p>
+🤓  Estudando para alcançar minha primeira oportunidade na área. 
+</p>
 
-## 🛠️ Tecnologias e Ferramentas
+<p>
+  <br>
+  Atualmente desenvolvo com ⬎
+</p>
 
-- **Linguagens:** JavaScript • SQL
-- **Back-end:** Node.js • Express.js • PostgreSQL
-- **Front-end:** HTML5 • CSS3 • React (básico)
-- **Outros:** Git • GitHub • Figma • Trello
-- **Metodologias:** Scrum (ABP em projetos acadêmicos)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
----
+<p>
+  <br>
+  Me <del>contrate</del> contate ⬎
+</p>
+  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arthur-facchinetti/) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arthurfacchinetti10@gmail.com)
 
-## 🚀 Projetos em Destaque
+  
+  <br>
+  <br>
+
+# 🚀 Projetos em Destaque
 
 ### 🔗 [Site com Mapa Interativo e Grade de Horários](https://github.com/ErrorSquad-ABP/ErrorSquad-Front)
-> Projeto acadêmico com foco em solução real para a faculdade  
-> HTML, CSS, JS, Node.js, Express, PostgreSQL e integração com Google BigQuery  
-> Responsável pela lógica do mapa interativo e integração de dados
+> > Mapa interativo dinâmico e grade de horários. Página de professores para edição. <br>
+> Html, CSS, JavaScript, Postgres, NodeJs <br>
+> SCRUM, Git/GitHub, WebSocket, NodeJs, Express, Versel <br>
 
-### 🔗 [RoleVale – Pesquisa de Eventos e Lugares](https://github.com/ArtFacchinetti/RoleVale)
-> Projeto pessoal para buscar eventos e estabelecimentos filtrados por tipo e preferências  
-> HTML, CSS e JavaScript nativo  
-> Em desenvolvimento contínuo
-
----
-
-📫 Entre em contato comigo:
-
-- Email: arthurfacchinetti10@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/arthur-facchinetti-669a6a2a7)  
-- [Portfólio GitHub](https://github.com/ArtFacchinetti)
+### 🔗 [RoleVale](https://github.com/ErrorSquad-ABP/ErrorSquad-Front)
+> > Projeto pessoal para buscar eventos e estabelecimentos filtrados por tipo e preferências <br>
+> HTML, CSS, JavaScript, React, Vite <br>
+> Hospedado no GitHub Pages
