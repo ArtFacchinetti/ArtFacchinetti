@@ -41,7 +41,7 @@
 > Html, CSS, JavaScript, Postgres, NodeJs <br>
 > SCRUM, Git/GitHub, WebSocket, NodeJs, Express, Versel <br>
 
-### 🔗 [RoleVale](https://github.com/ErrorSquad-ABP/ErrorSquad-Front)
+### 🔗 [RoleVale](https://github.com/ArtFacchinetti/RoleVale)
 > > Projeto pessoal para buscar eventos e estabelecimentos filtrados por tipo e preferências <br>
 > HTML, CSS, JavaScript, React, Vite <br>
 > Hospedado no GitHub Pages
