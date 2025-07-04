@@ -3,17 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: green;
-                animation: mymove 2s ease infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: green;
-                }
-                to {
-                    color: blue;
-                }
+                color: #ff0000;
             }
             </style>
             <h1>Arthur Facchinetti</h1>
