@@ -5,7 +5,7 @@
 <img src="./hero.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Desenvolvedor <strong>WEB 🌐</strong> <br> Estudante de <strong>Desenvolvimento de Software Multiplataforma 💻</strong> na <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec Jacareí</a>🧑‍🎓! <br> No momento aprendendo FrontEnd.
+  Desenvolvedor <strong>WEB 🌐</strong> <br> Estudante de <strong>Desenvolvimento de Software Multiplataforma 💻</strong> na <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec Jacareí</a>🧑‍🎓!
  </p> 
  
 <p>
